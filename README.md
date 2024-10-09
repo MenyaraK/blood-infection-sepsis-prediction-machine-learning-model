@@ -14,11 +14,10 @@ The thesis presents a machine learning framework aimed at enhancing the early de
 - **Languages:** Python
 - **Machine Learning Libraries:** TensorFlow, Scikit-learn
 - **Data Handling:** Pandas, NumPy
-- **Visualization:** Matplotlib
+- **Visualization:** Matplotlib, Seaborn
 
 ## Repository Structure
 
-```plaintext
 /
 ├── data/                   # Contains datasets used in the project.
 ├── models/                 # Stores trained machine learning models and serialization files.
