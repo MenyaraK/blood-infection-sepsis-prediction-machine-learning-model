@@ -17,7 +17,7 @@ The thesis presents a machine learning framework aimed at enhancing the early de
 - **Visualization:** Matplotlib, Seaborn
 
 ## Repository Structure
-
+```
 /
 ├── data/                   # Contains datasets used in the project.
 ├── models/                 # Stores trained machine learning models and serialization files.
@@ -25,6 +25,7 @@ The thesis presents a machine learning framework aimed at enhancing the early de
 ├── src/                    # Source code for training machine learning models and making predictions.
 ├── tests/                  # Test scripts for validating the codebase.
 └── README.md               # Provides an overview of the project and setup instructions.
+```
 ## Usage
 
 To train the model, run:
