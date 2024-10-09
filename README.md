@@ -31,7 +31,8 @@ The thesis presents a machine learning framework aimed at enhancing the early de
 To train the model, run:
 ```bash
 python src/train_model.py
-
+```
 To evaluate the model performance, run:
+```
 python src/evaluate_model.py
-
+```
