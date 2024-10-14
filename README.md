@@ -20,19 +20,40 @@ The thesis presents a machine learning framework aimed at enhancing the early de
 ```
 /
 ├── data/                   # Contains datasets used in the project.
-├── models/                 # Stores trained machine learning models and serialization files.
+├── models/                 # Stores trained grid search machine learning models and best models.
 ├── notebooks/              # Jupyter notebooks for exploratory data analysis and visualization.
 ├── src/                    # Source code for training machine learning models and making predictions.
-├── tests/                  # Test scripts for validating the codebase.
 └── README.md               # Provides an overview of the project and setup instructions.
 ```
 ## Usage
 
+To preprocess the dataset, run:
+```bash
+python src/preprocessing.py
+```
+--------------------------------------------
+To set different daasets, run:
+```bash
+python src/dataset_setting.py
+```
+--------------------------------------------
+To perform grid search of the best model parameters, run:
+```bash
+python src/grid_search.py
+```
+--------------------------------------------
 To train the model, run:
 ```bash
 python src/train_model.py
 ```
+--------------------------------------------
 To evaluate the model performance, run:
 ```
 python src/evaluate_model.py
 ```
+--------------------------------------------
+To plot learning curves of the model, run:
+```
+python src/plot_results.py
+```
+--------------------------------------------
