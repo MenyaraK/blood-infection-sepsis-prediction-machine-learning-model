@@ -73,6 +73,8 @@ This thesis explores the use of machine learning to improve early sepsis detecti
 
 Visualization examples:
 - Spearman's correlation visualization
+ ![pct vs features spearman correlation](https://github.com/user-attachments/assets/4c021af8-ab8e-4c07-9c9e-b8f3f0bdf35e)
+ 
 
 - RUSBoost model learning curve:
 ![learningcurve2](https://github.com/user-attachments/assets/bbb1b85b-33a7-4e90-97f8-72bb443b40e3)
