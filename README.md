@@ -1,9 +1,19 @@
-# Early Prediction of Sepsis Using Machine Learning Algorithms
+# Development of a Machine Learning Model for Predicting Blood Infections (Sepsis)
 
-This repository contains the source code for the master thesis titled "Early Prediction of Sepsis using Machine Learning Algorithms," submitted to the National Institute of Applied Science and Technology, University of Passau and Klinikum Passau.
+This repository contains the code, data, and results from my master's thesis, "Early Prediction of Sepsis using Machine Learning Algorithms", submitted to the National Institute of Applied Science and Technology, University of Passau, and Klinikum Passau. The project uses machine learning to analyze routine blood test metrics and Procalcitonin (PCT) levels, achieving an accuracy of 93% in early sepsis detection.
 
-## Thesis Overview
-The thesis presents a machine learning framework aimed at enhancing the early detection of sepsis by leveraging the predictive potential of routine blood test metrics and Procalcitonin (PCT) levels. Through advanced data analytics, this study identifies subtle patterns in blood count behaviors and PCT that signal the onset of sepsis. The primary goal is to develop a cost-effective and reliable diagnostic tool that reduces the diagnostic timeframe and improves patient outcomes by enabling earlier and more precise interventions.
+---
+
+## Motivation
+Sepsis is a global healthcare challenge with high mortality rates (20% as of 2020) and rapid progression. Current diagnostic methods are often slow and costly, causing delays that impact patient outcomes. This project aims to address these issues with a cost-effective and reliable machine-learning-based diagnostic tool.
+
+---
+
+## Abstract
+This thesis explores the use of machine learning to improve early sepsis detection by analyzing routine blood test metrics and PCT levels. The study identifies subtle patterns in blood data that signal sepsis onset. The resulting model achieved 93% accuracy, demonstrating its potential as a cost-effective, reliable diagnostic tool that reduces diagnosis time and enables earlier, more precise interventions.
+
+---
+
 
 ### Key Features:
 - Utilization of advanced data analytics to examine interrelations between blood count behaviors and PCT levels.
