@@ -6,6 +6,8 @@ This repository contains the code, data, and results from my master's thesis, "E
 
 ## Motivation
 Sepsis is a global healthcare challenge with high mortality rates (20% as of 2020) and rapid progression. Current diagnostic methods are often slow and costly, causing delays that impact patient outcomes. This project aims to address these issues with a cost-effective and reliable machine-learning-based diagnostic tool.
+![image](https://github.com/user-attachments/assets/21ee44b9-1180-420a-b47f-1530fdacd41e)
+
 
 ---
 
