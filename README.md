@@ -6,6 +6,7 @@ This repository contains the code, data, and results from my master's thesis, "E
 
 ## Motivation
 Sepsis is a global healthcare challenge with high mortality rates (20% as of 2020) and rapid progression. Current diagnostic methods are often slow and costly, causing delays that impact patient outcomes. This project aims to address these issues with a cost-effective and reliable machine-learning-based diagnostic tool.
+
 ![image](https://github.com/user-attachments/assets/21ee44b9-1180-420a-b47f-1530fdacd41e)
 
 
@@ -56,11 +57,21 @@ This thesis explores the use of machine learning to improve early sepsis detecti
 1. **Data Preprocessing**:
    - Addressed missing values and outliers.
    - Transformed and standardized features.
+  
+![image](https://github.com/user-attachments/assets/b837e71f-b675-4f44-b136-a5469360b687)
+
+
 2. **Feature Selection**:
    - Techniques such as clustering, correlation analysis, and random forest feature importance.
+   - 
+  ![image](https://github.com/user-attachments/assets/e53b4d4b-644e-483d-939b-9a76feeb64a0)
+
 3. **Model Development**:
    - Tested models: Random Forest, AdaBoost, and RUSBoost.
    - Implemented hyperparameter tuning using GridSearchCV.
+  
+  ![image](https://github.com/user-attachments/assets/0ecd7d70-d79a-4c4b-923b-75b9919cb64b)
+
 4. **Evaluation**:
    - Metrics: Accuracy, Precision, Recall, F1-Score, and AUROC.
    - Confusion matrix for clinical relevance.
@@ -70,8 +81,13 @@ This thesis explores the use of machine learning to improve early sepsis detecti
 - **Performance Metrics**:
   - Accuracy: 86.52%
   - AUROC: 93% High discrimination capability (details in results/ folder).
+
+ ![image](https://github.com/user-attachments/assets/e1e1eb3a-f1e3-43a2-a118-6206c04103a1)
+ 
 - **Feature Importance**:
   - White Blood features were significant predictors.
+
+![feature importance model](https://github.com/user-attachments/assets/c0f89e4e-c7e9-42c9-9223-b8671508d8c1)
 
 Visualization examples:
 - Spearman's correlation visualization
