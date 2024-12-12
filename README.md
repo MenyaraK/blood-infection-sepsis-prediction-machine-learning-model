@@ -104,7 +104,8 @@ Visualization examples:
 ![randomforestresult](https://github.com/user-attachments/assets/2f3abab3-3c38-4715-b7d9-3995c47a0d76)
 
 - Output example
-<img width="179" alt="output" src="https://github.com/user-attachments/assets/01999ca9-4319-4e9a-b591-e283f866415f" />
+![image](https://github.com/user-attachments/assets/fa581998-604e-4672-81c5-f0e23b3ca6ba)
+
 
 ---
 
